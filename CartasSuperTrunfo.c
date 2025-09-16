@@ -39,13 +39,13 @@ int main() {
   printf("População: %d \n", populacao_2);
   printf("Área: %f \n", area_2);
   printf("PIB: %f \n", pib_2);
-  printf("Pontos Turísticos: %d \n", numero_pontos_turisticos_2);
+  printf("Número de Pontos Turísticos: %d \n", numero_pontos_turisticos_2);
 
   printf("CARTA 2\n");
   printf("População: %d \n", populacao_2);
   printf("Área: %f \n", area_2);
   printf("PIB: %f \n", pib_2);
-  printf("Pontos Turísticos: %d \n", numero_pontos_turisticos_2);
+  printf("Número de Pontos Turísticos: %d \n", numero_pontos_turisticos_2);
 
 return 0;
 } 
