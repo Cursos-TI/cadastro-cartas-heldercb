@@ -47,16 +47,16 @@ int main() {
   scanf("%s", &nome_cidade_2);
 
   printf("Digite a população da segunda carta:\n");
-  scanf("%d", &populacao_1);
+  scanf("%d", &populacao_2);
 
   printf("Digite a área da segunda carta:\n");
-  scanf("%f", &area_1);
+  scanf("%f", &area_2);
 
   printf("Digite o pib da segunda carta:\n");
-  scanf("%f", &pib_1);
+  scanf("%f", &pib_2);
 
   printf("Digite o número de pontos turísticos da segunda carta:\n");
-  scanf("%d", &numero_pontos_turisticos_1);
+  scanf("%d", &numero_pontos_turisticos_2);
 
   // Área para exibição dos dados da cidade
   printf("CARTA 1\n");
