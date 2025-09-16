@@ -12,6 +12,17 @@ int main() {
   char codigo_1[3], codigo_2[3], nome_cidade_1[20], nome_cidade_2[20];
 
   // Área para entrada de dados
+
+  // entradas da primeira carta
+  printf("Digite o estado da primeira carta:\n");
+  scanf("%c", &estado_1);
+
+  printf("Digite o código da primeira carta:\n");
+  scanf("%s", &codigo_1);
+
+  printf("Digite o nome da primeira carta:\n");
+  scanf("%s", &nome_cidade_1);
+
   printf("Digite a população da primeira carta:\n");
   scanf("%d", &populacao_1);
 
@@ -23,6 +34,17 @@ int main() {
 
   printf("Digite o número de pontos turísticos da primeira carta:\n");
   scanf("%d", &numero_pontos_turisticos_1);
+
+  // entradas da segunda carta
+
+  printf("Digite o estado da segunda carta:\n");
+  scanf("%c", &estado_2);
+
+  printf("Digite o código da segunda carta:\n");
+  scanf("%s", &codigo_2);
+
+  printf("Digite o nome da segunda carta:\n");
+  scanf("%s", &nome_cidade_2);
 
   printf("Digite a população da segunda carta:\n");
   scanf("%d", &populacao_1);
