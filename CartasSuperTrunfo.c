@@ -60,10 +60,10 @@ int main() {
 
   // Área para exibição dos dados da cidade
   printf("CARTA 1\n");
-  printf("População: %d \n", populacao_2);
-  printf("Área: %f \n", area_2);
-  printf("PIB: %f \n", pib_2);
-  printf("Número de Pontos Turísticos: %d \n", numero_pontos_turisticos_2);
+  printf("População: %d \n", populacao_1);
+  printf("Área: %f \n", area_1);
+  printf("PIB: %f \n", pib_1);
+  printf("Número de Pontos Turísticos: %d \n", numero_pontos_turisticos_1);
 
   printf("CARTA 2\n");
   printf("População: %d \n", populacao_2);
