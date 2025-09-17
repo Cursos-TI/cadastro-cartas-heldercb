@@ -9,7 +9,7 @@ int main() {
   int populacao_1, populacao_2, numero_pontos_turisticos_1, numero_pontos_turisticos_2;
   float area_1, area_2, pib_1, pib_2;
   char estado_1, estado_2;
-  char codigo_1[3], codigo_2[3], nome_cidade_1[20], nome_cidade_2[20];
+  char codigo_1[4], codigo_2[4], nome_cidade_1[20], nome_cidade_2[20];
 
   // Área para entrada de dados
 
