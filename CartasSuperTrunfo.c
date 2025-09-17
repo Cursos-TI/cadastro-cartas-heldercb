@@ -60,6 +60,9 @@ int main() {
 
   // Área para exibição dos dados da cidade
   printf("CARTA 1\n");
+  printf("Estado: %c \n", estado_1);
+  printf("Código: %s \n", codigo_1);
+  printf("Nome da Cidade: %s \n", nome_cidade_1);
   printf("População: %d \n", populacao_1);
   printf("Área: %f \n", area_1);
   printf("PIB: %f \n", pib_1);
