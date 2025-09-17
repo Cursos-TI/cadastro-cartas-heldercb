@@ -38,7 +38,7 @@ int main() {
   // entradas da segunda carta
 
   printf("Digite o estado da segunda carta:\n");
-  scanf("% c", &estado_2);
+  scanf(" %c", &estado_2);
 
   printf("Digite o código da segunda carta:\n");
   scanf("%s", codigo_2);
